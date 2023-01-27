@@ -6,9 +6,9 @@ Visualización del lamborghini gallardo desde el explorador
 
 Libreria usada: ThreeJs
 
-##Edición del modelo en Blender
+## Edición del modelo en Blender
 ![BlenderGallardo03](https://user-images.githubusercontent.com/51276791/215120694-3fd0c1a7-c2ea-4679-a834-a54f934a7e09.png)
-##Visualizaciòn desde Rhino
+## Visualizaciòn desde Rhino
 también fue necesario usar este programa para poder impotar el archivo que es de lightwave
 ![RhinoGallardo](https://user-images.githubusercontent.com/51276791/215120758-6dc0d431-28f4-4f40-96b0-734f28a5ae73.png)
 
