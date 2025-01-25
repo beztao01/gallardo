@@ -1,5 +1,5 @@
 # Lamborghini Gallardo
-Visualización del Lamborghini Gallardo desde el explorador.
+Visualización del Lamborghini Gallardo desde el explorador, usando Threejs
 ![gallardoGit01](https://user-images.githubusercontent.com/51276791/215120359-818bf875-457e-498d-939d-398231ed68a6.png)
 ![gallardoGit02](https://user-images.githubusercontent.com/51276791/215120364-eb194494-38ca-453a-ad81-eb5ba30b6ed0.png)
 ![gallardoGit03](https://user-images.githubusercontent.com/51276791/215120365-7ebeebea-a845-4ea6-8404-18e3c8f5aa16.png)
